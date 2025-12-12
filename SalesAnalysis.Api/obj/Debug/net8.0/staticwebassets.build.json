@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "suxVUnRPGdDBpXoHrU5zLF3BzAMcRH4ptAgG3KNKIWc=",
+  "Source": "SalesAnalysis.Api",
+  "BasePath": "_content/SalesAnalysis.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
